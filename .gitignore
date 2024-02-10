@@ -2,6 +2,7 @@
 *.pth 
 *.pt
 splitted_dataset/
+dataset/
 *.txt
 
 ### PythonVanilla ###
