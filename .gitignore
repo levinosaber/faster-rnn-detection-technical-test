@@ -2,6 +2,7 @@
 *.pth 
 *.pt
 splitted_dataset/
+*.txt
 
 ### PythonVanilla ###
 # Byte-compiled / optimized / DLL files
